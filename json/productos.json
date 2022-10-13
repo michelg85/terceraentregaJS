@@ -45,7 +45,7 @@
     "tipo": "Poke",
     "nombre": "Pokes",
     "precio": 2000,
-    "foto": "./imagenes/panko.jpg"
+    "foto": "./imagenes/poke.jpg"
 }, {
     "id": 9,
     "tipo": "Sashimi",
