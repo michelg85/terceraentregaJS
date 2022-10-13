@@ -3,7 +3,7 @@
     "tipo": "Ceviche",
     "nombre": "Ceviche Picante",
     "precio": 1800,
-    "foto": "../imagenes/ceviche.png"
+    "foto": "./imagenes/ceviche.png"
 }, {
     "id": 2,
     "tipo": "Eby Furai",
