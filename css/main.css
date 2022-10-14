@@ -137,10 +137,12 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    align-items: flex-end; }
+    align-items: flex-end; 
+    font-family: oswald, sans-serif;}
     #container-general #section-productos .card-product {
       margin: 20px 0px;
-      text-align: center; }
+      text-align: center; 
+    }
       #container-general #section-productos .card-product .img-container {
         position: relative; }
         #container-general #section-productos .card-product .img-container img {
@@ -149,7 +151,8 @@ footer {
           margin: 10px; }
       #container-general #section-productos .card-product .info-producto {
         display: flex;
-        flex-direction: column; }
+        flex-direction: column;
+       }
 
 /* === CARRITO === */
 .section-carrito {
@@ -216,7 +219,10 @@ font-family: oswald, sans-serif;}
     background-color: #a397a3d5;
     padding: 40px;
     border-radius: 10px;
-    width: 90vh; }
+    width: 90vh; 
+  }
+
+    
     .section-contacto .form-contacto section form {
       display: flex;
       flex-direction: column; }
@@ -288,7 +294,8 @@ font-family: oswald, sans-serif;}
     flex-direction: column; }
     #container-general #section-productos .card-product {
       width: 90%;
-      margin: auto; }
+      margin: auto;
+      font-family: oswald, sans-serif; }
       #container-general #section-productos .card-product .img-container img {
         margin: 20px 0px;
         width: 15em; }
