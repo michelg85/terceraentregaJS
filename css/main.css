@@ -192,9 +192,12 @@ footer {
   flex-direction: row;
   justify-content: space-evenly; }
   .section-contacto .div-contacto {
-    display: grid; }
+    display: grid; 
+  font-size:1.2rem;
+font-family: oswald, sans-serif;}
+  
     .section-contacto .div-contacto div {
-      background-color: rgba(158, 158, 158, 0.137);
+      background-color: rgba(252, 241, 241, 0.137);
       padding: 40px;
       height: 40vh;
       display: flex;
@@ -207,10 +210,10 @@ footer {
         .section-contacto .div-contacto div p i {
           margin-right: 25px;
           cursor: pointer;
-          font-size: 1.5rem;
+          font-size: 2rem;
           align-items: center; }
   .section-contacto .form-contacto section {
-    background-color: #d7c1d7d5;
+    background-color: #a397a3d5;
     padding: 40px;
     border-radius: 10px;
     width: 90vh; }
@@ -229,7 +232,8 @@ footer {
       .section-contacto .form-contacto section form label,
       .section-contacto .form-contacto section form div {
         margin: 5px 0px 5px 0px;
-        font-size: 1.1rem; }
+        font-size: 1.1rem; 
+      font-family: oswald, sans-serif;}
       .section-contacto .form-contacto section form form input,
       .section-contacto .form-contacto section form form textarea {
         border: none;
